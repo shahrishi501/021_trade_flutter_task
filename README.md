@@ -27,3 +27,4 @@ Since this task involved only one page, I still maintained modularity by:
 Separating components into Widgets, Pages, and Models.
 
 Making the code scalable and reusable, in case the app needs to be extended further.
+
